@@ -1,4 +1,4 @@
-# https-redirect
+# Редирект с http на https
 
 ```htcaccess
 RewriteEngine on
