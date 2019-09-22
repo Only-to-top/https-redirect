@@ -10,5 +10,5 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [QSA,R=301,L]
 
 ```htaccess
 RewriteEngine On
-RewriteRule (.*) https://impuls-rb.ru/$1 [R=301,L]
+RewriteRule (.*) https://new.ru/$1 [R=301,L]
 ```
